@@ -1,0 +1,11 @@
+CREATE TABLE warehouse(
+WarehouseID INT(10),
+WarehouseLoc varchar(20) NOT NULL,
+productID INT(10) NOT NULL,
+ProductQuantity INT NOT NULL
+);
+INSERT INTO warehouse
+(WarehouseID, WarehouseLoc, ProductID, ProductQuantity)
+VALUES(411150, " Houston, USA" ,30002, 250),
+(411150, " Houston, USA" ,30001, 300),
+(411150, " Houston, USA" ,30003, 240);

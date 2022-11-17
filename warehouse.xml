@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Warehouse-data>
+  <WarehouseRecord>
+    <WarehouseID>411150</WarehouseID>
+    <WarehouseLoc> Houston, USA</WarehouseLoc>
+    <productID>30002</productID>
+    <ProductQuantity>250</ProductQuantity>
+  </WarehouseRecord>
+  <WarehouseRecord>
+    <WarehouseID>411150</WarehouseID>
+    <WarehouseLoc> Houston, USA</WarehouseLoc>
+    <productID>30001</productID>
+    <ProductQuantity>300</ProductQuantity>
+  </WarehouseRecord>
+  <WarehouseRecord>
+    <WarehouseID>411150</WarehouseID>
+    <WarehouseLoc> Houston, USA</WarehouseLoc>
+    <productID>30003</productID>
+    <ProductQuantity>240</ProductQuantity>
+  </WarehouseRecord>
+</Warehouse-data>

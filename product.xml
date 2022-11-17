@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product-data>
+  <ProductRecord>
+    <ProductID>30001</ProductID>
+    <ProductName>Scuba diver</ProductName>
+    <Price>10.00</Price>
+    <ProductQuantity>300</ProductQuantity>
+  </ProductRecord>
+  <ProductRecord>
+    <ProductID>30002</ProductID>
+    <ProductName>Mermaid</ProductName>
+    <Price>8.00</Price>
+    <ProductQuantity>450</ProductQuantity>
+  </ProductRecord>
+  <ProductRecord>
+    <ProductID>30003</ProductID>
+    <ProductName>Dolphinn</ProductName>
+    <Price>15.00</Price>
+    <ProductQuantity>240</ProductQuantity>
+  </ProductRecord>
+</product-data>

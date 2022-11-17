@@ -1,0 +1,4 @@
+WarehouseID,WarehouseLoc,productID,ProductQuantity
+411150," Houston, USA",30002,250
+411150," Houston, USA",30001,300
+411150," Houston, USA",30003,240

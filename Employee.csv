@@ -1,0 +1,4 @@
+EmpID,EmpFirstName,EmpLastName,DOB,Gender,DOJ,EmpPhone,Designation
+101,Kate,Wilson,1991-04-24,F,2019-06-05,485222567,"Marketing Manager"
+102,MIke,Tyson,1987-02-10,M,2019-08-03,898334489,"General Manager"
+103,Lucie,Thomas,1995-06-17,F,2020-05-10,898345676,"Delivery Incharge"

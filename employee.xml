@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee-data>
+  <EmployeeRecord>
+    <EmpID>101</EmpID>
+    <EmpFirstName>Kate</EmpFirstName>
+    <EmpLastName>Wilson</EmpLastName>
+    <DOB>1991-04-24</DOB>
+    <Gender>F</Gender>
+    <DOJ>2019-06-05</DOJ>
+    <EmpPhone>485222567</EmpPhone>
+    <Designation>Marketing Manager</Designation>
+  </EmployeeRecord>
+  <EmployeeRecord>
+    <EmpID>102</EmpID>
+    <EmpFirstName>MIke</EmpFirstName>
+    <EmpLastName>Tyson</EmpLastName>
+    <DOB>1987-02-10</DOB>
+    <Gender>M</Gender>
+    <DOJ>2019-08-03</DOJ>
+    <EmpPhone>898334489</EmpPhone>
+    <Designation>General Manager</Designation>
+  </EmployeeRecord>
+  <EmployeeRecord>
+    <EmpID>103</EmpID>
+    <EmpFirstName>Lucie</EmpFirstName>
+    <EmpLastName>Thomas</EmpLastName>
+    <DOB>1995-06-17</DOB>
+    <Gender>F</Gender>
+    <DOJ>2020-05-10</DOJ>
+    <EmpPhone>898345676</EmpPhone>
+    <Designation>Delivery Incharge</Designation>
+  </EmployeeRecord>
+</Employee-data>

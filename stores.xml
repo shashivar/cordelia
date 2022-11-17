@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Store-data>
+  <StoreRecord>
+    <StoreID>2001</StoreID>
+    <StoreName>Walmart</StoreName>
+    <StorePhone>456321765</StorePhone>
+    <StoreAddress> Columbus, OH, USA </StoreAddress>
+  </StoreRecord>
+  <StoreRecord>
+    <StoreID>2002</StoreID>
+    <StoreName>CostCo</StoreName>
+    <StorePhone>567432785</StorePhone>
+    <StoreAddress> Pinellas Park, FL, USA </StoreAddress>
+  </StoreRecord>
+  <StoreRecord>
+    <StoreID>2003</StoreID>
+    <StoreName>Target</StoreName>
+    <StorePhone>228856437</StorePhone>
+    <StoreAddress> Los Angeles, CA, USA </StoreAddress>
+  </StoreRecord>
+</Store-data>
